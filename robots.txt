@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /img/
+Disallow: /*.jpg$
+Disallow: /*.jpeg$
+Disallow: /*.gif$
+Disallow: /*.png$
+Disallow: /*.bmp$
